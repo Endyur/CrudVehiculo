@@ -1,0 +1,13 @@
+.card {
+    background-color: rgba(255, 255, 255, 0.5); /* Fondo blanco con transparencia */
+    margin-top: 20px; /* Margen superior de 50px */
+    border: none; /* Opcional: para eliminar el borde */
+}
+.btn-primary {
+    margin-left: 60%;
+}
+.listado-autos {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }

@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(rgba(173, 216, 230, 0.5), rgba(173, 216, 230, 0.5)), url('/assets/images/car_icon-icons.com_61086.png');
+    background-size: cover; /* Ajusta la imagen para cubrir toda el área */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-attachment: fixed; /* Hace que la imagen se mantenga fija al hacer scroll */
+    background-position: center; /* Centra la imagen */
+}
+    
